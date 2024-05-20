@@ -1,8 +1,10 @@
 __pycache__/
 *.pyc
 
+# tokens
 tokens/*
 !tokens/*.md
 
+# testing and loging
 *.ipynb
 *.log
